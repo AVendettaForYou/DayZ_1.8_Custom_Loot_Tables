@@ -1,0 +1,31 @@
+Industrial[] = {
+//med
+//ammo
+	{"HandRoadFlare",0.03},
+//drinks
+	{"ItemSodaSmasht",0.01},
+	{"ItemSodaDrwaste",0.01},
+//food
+	{"FoodCanPowell",0.01},
+	{"FoodChipsSulahoops",0.01},
+	{"FoodCanBakedBeans",0.03},
+	{"FoodCanRusPork",0.02},
+	{"FoodCanRusStew",0.02},
+//special
+	{"equip_duct_tape",0.01},
+	{"equip_rag",0.01},
+	{"equip_nails",0.06},
+	{"equip_brick",0.01},
+	{"equip_crate",0.01},
+	{"equip_scrapelectronics",0.01},
+//trash
+	{"ItemSodaSmashtEmpty",0.06},
+	{"ItemSodaDrwasteEmpty",0.06},
+	{"FoodCanRusUnlabeledEmpty",0.06},
+	{"FoodCanRusPorkEmpty",0.06},
+	{"FoodCanRusStewEmpty",0.06},
+	{"TrashTinCan",0.06},
+	{"ItemSodaEmpty",0.06},
+	{"ItemTrashToiletpaper",0.01},
+	{"ItemCards",0.01}
+};

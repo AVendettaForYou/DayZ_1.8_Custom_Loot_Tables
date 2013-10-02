@@ -1,0 +1,33 @@
+hospital[] = {
+//med
+	{"ItemBandage",0.06},
+	{"ItemPainkiller",0.04},
+	{"ItemMorphine",0.04},
+	{"ItemEpinephrine",0.03},
+	{"ItemAntibacterialWipe",0.04},
+	{"ItemBloodbag",0.03},
+	{"ItemAntibiotic",0.01},
+//ammo
+//drinks
+//food
+//special
+	//{"equip_nails",0.01}, //nails in hospital?
+	{"equip_gauzepackaged",0.01},
+	{"equip_gauze",0.01},
+//trash
+	{"ItemSodaCokeEmpty",0.05},
+	{"ItemSodaPepsiEmpty",0.03},
+	{"FoodCanUnlabeledEmpty",0.05},
+	{"FoodCanRusUnlabeledEmpty",0.02},
+	{"FoodCanRusPorkEmpty",0.02},
+	{"FoodCanRusPeasEmpty",0.03},
+	{"FoodCanRusMilkEmpty",0.02},
+	{"FoodCanRusCornEmpty",0.05},
+	{"FoodCanRusStewEmpty",0.03},
+	{"TrashTinCan",0.05},
+	{"TrashJackDaniels",0.02},
+	{"ItemSodaEmpty",0.03},
+	{"ItemTrashToiletpaper",0.01},
+	{"ItemTrashRazor",0.01},
+	{"ItemCards",0.02}
+};

@@ -1,0 +1,26 @@
+Church[] = {
+//med
+//ammo
+	{"WoodenArrow",0.02},
+//drinks
+	{"ItemSodaClays",0.01},
+	{"ItemSodaMzly",0.01},
+	//food
+	{"FoodCanCurgon",0.01},
+	{"FoodCanRusStew",0.02},
+	{"FoodChipsSulahoops",0.01},
+//special
+	{"equip_rag",0.02},
+//trash
+	{"ItemSodaCokeEmpty",0.06},
+	{"ItemSodaPepsiEmpty",0.06},
+	{"FoodCanUnlabeledEmpty",0.06},
+	{"FoodCanRusUnlabeledEmpty",0.06},
+	{"FoodCanRusPorkEmpty",0.06},
+	{"FoodCanRusPeasEmpty",0.06},
+	{"TrashTinCan",0.06},
+	{"TrashJackDaniels",0.06},
+	{"ItemSodaEmpty",0.06},
+	{"ItemTrashRazor",0.06},
+	{"ItemCards",0.06}
+};

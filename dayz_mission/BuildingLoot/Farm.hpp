@@ -1,0 +1,30 @@
+Farm[] = {
+//med
+//ammo
+	//{"2Rnd_shotgun_74Slug",0.05}, //pellets prefered for MR43
+	{"2Rnd_shotgun_74Pellets",0.08},
+	{"5x_22_LR_17_HMR",0.01},
+	{"10x_303",0.04},
+	{"15Rnd_W1866_Slug",0.02},
+	{"WoodenArrow",0.04},
+//drinks
+	{"ItemSodaLemonade",0.01},
+//food
+	{"FoodNutmix",0.03},
+	{"FoodCanBoneboy",0.01},
+	{"FoodCanRusStew",0.05},
+	{"FoodCanRusPork",0.05},
+//special
+	{"equip_nails",0.06},
+//trash
+	{"ItemSodaCokeEmpty",0.06},
+	{"FoodCanUnlabeledEmpty",0.06},
+	{"FoodCanRusUnlabeledEmpty",0.06},
+	{"FoodCanRusPorkEmpty",0.06},
+	{"FoodCanRusPeasEmpty",0.06},
+	{"FoodCanRusMilkEmpty",0.06},
+	{"FoodCanRusCornEmpty",0.06},
+	{"FoodCanRusStewEmpty",0.06},
+	{"TrashTinCan",0.06},
+	{"TrashJackDaniels",0.06}
+};
